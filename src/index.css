@@ -1,0 +1,10 @@
+/* Global */
+@import '../node_modules/modern-normalize/modern-normalize.css';
+@import './styles-components/variables.module.css';
+@import './styles-components/base.module.css';
+@import './styles-components/utils.module.css';
+@import './styles-components/animations.css';
+/* Client page */
+@import './components/HomePage/Hero/Hero.module.css';
+/* Admin page */
+@import './pages/Orders/Orders.module.styles.css';
